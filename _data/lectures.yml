@@ -312,7 +312,7 @@ lectures:
     nonumber: True
   - title: 
     nonumber: True
-  - title: "DAGs, Topological Sorts"
+  - title: "Graph Traversals, DAGs, Topological Sorts"
     # slides: https://docs.google.com/presentation/d/12VCENn-07ZMsSt0ZlJj_YpXNWtR3aEeNlLp6KD0PGf8/edit#slide=id.g636c46f3c_0973
     # video: "" # https://www.youtube.com/playlist?list=PL8FaHk7qbOD44CGmkFro1gqxkDl5gIpXB
     # recording: https://youtu.be/3QnElmfYYwM
@@ -320,7 +320,7 @@ lectures:
     readings:
       - title: "Ch 24"
         link: "https://cs61b-2.gitbook.io/cs61b-textbook/24.-shortest-paths"
-  - title: "BYOW Introduction and Software Engineering"
+  - title: "BYOW Introduction"
     # slides: https://docs.google.com/presentation/d/17_BnS03_dM2oeZVe7fQL5PHXJhIMBXMjuXpsjPYgMpY/edit#slide=id.g1f5aad9eaf1_0_269
     # video: "" # https://www.youtube.com/watch?v=0SCtnf84QrI&list=PL8FaHk7qbOD41EHkD7CgQuRw1jpH_Fv7-
     # recording: https://youtu.be/bJqx0WoNNZc
@@ -328,14 +328,14 @@ lectures:
     readings:
       - title: "Project 3 Spec"
         link: projects/proj3
-      - title: "Ch 27"
-        link: https://cs61b-2.gitbook.io/cs61b-textbook/27.-software-engineering-i
-      - title: "Ch 31"
-        link: https://cs61b-2.gitbook.io/cs61b-textbook/31.-software-engineering-ii
-      - title: "Ch 33"
-        link: https://cs61b-2.gitbook.io/cs61b-textbook/33.-software-engineering-iii
-      - title: "Ch 37"
-        link: https://cs61b-2.gitbook.io/cs61b-textbook/37.-software-engineering-iv
+      # - title: "Ch 27"
+      #   link: https://cs61b-2.gitbook.io/cs61b-textbook/27.-software-engineering-i
+      # - title: "Ch 31"
+      #   link: https://cs61b-2.gitbook.io/cs61b-textbook/31.-software-engineering-ii
+      # - title: "Ch 33"
+      #   link: https://cs61b-2.gitbook.io/cs61b-textbook/33.-software-engineering-iii
+      # - title: "Ch 37"
+      #   link: https://cs61b-2.gitbook.io/cs61b-textbook/37.-software-engineering-iv
   - title:
     nonumber: True
   - title: 
